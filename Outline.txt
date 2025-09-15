@@ -1,0 +1,16 @@
+Document Outline 
+
+1. Comp 484 * h1 header  also uses the header role mainly used as a landmark, site name, main heading 
+	1. Structuring Pages  * h2 header
+		1. Site Navigation * Its a nav role that has the links to the other pages 
+		
+	2. Main role   uses the main role for whats the focus of the page, represents the primary content of the page 
+		1. Conveying meaning through structure *h3 tag and uses Section 
+		2. Sectioning elements *h3 tag uses Section 
+		3.Document Outlines *h3 tag uses Section 
+		    1. W3c Warning image *h4 tag  side role
+		4. WAI-ARIA Roles *h3 tag uses Section 
+	3.Footer Role (CSUN 1811 Nordhoff St Northridge, CA 91330) * uses the footer role that is a landmark at the bottom of the page
+
+
+	
